@@ -1,2 +1,2 @@
-# gencc
-Generador de CC's
+# DD0S
+Script PHP ataque de DDoS UDP.
